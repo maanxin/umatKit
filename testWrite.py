@@ -1,3 +1,13 @@
+#------------------------------------------------
+#
+# This code generates different model parameters
+#   value0a: initial crss
+#   value0b: saturated crss
+#   value0c: hardening rate
+#   value0d: saturated back stress
+#
+#------------------------------------------------
+
 import os
 import math
 import sys 
